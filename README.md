@@ -1,4 +1,4 @@
-```kotlin
+```markdown
 # Tip Calculator 
 
 ## *Your name here*
